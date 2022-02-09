@@ -1,0 +1,39 @@
+@media (min-width:0px) and (max-width:568px) {
+
+    .hidden_visibility{
+      display: none !important;
+      width: 0% !important;
+   }
+
+    .width_80{
+      width: 80% !important;
+    }
+    .width_100{
+      width: 100% !important;
+    }
+
+    .unflex{
+      display: block !important;
+    }
+    .wrap_flex{
+      flex-wrap: wrap;
+    }
+    .display_none{
+      display: none;
+    }
+    .up_button i {
+    width: 30px !important;
+    color: white !important;
+    height: 30px !important;
+    background: #4c504e !important;
+    font-size: 22px !important;
+    border-radius: 50% !important;
+    text-align: center !important;
+    line-height: 1.2 !important;
+}
+
+.border_none{
+  border: none !important;
+}
+
+}
